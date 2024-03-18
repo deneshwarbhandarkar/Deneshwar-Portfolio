@@ -1,5 +1,3 @@
-
-
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
 * {
@@ -321,7 +319,7 @@ section {
 }
 
 .skills-sub-title {
-  color: rgb(85, 85, 85);
+  color: red;
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
