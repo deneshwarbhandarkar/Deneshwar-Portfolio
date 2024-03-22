@@ -196,6 +196,15 @@ section {
 .title {
   font-size: 3rem;
   text-align: center;
+  transition: .5s linear;
+}
+
+.title:hover {
+  transform: scale(1.1);
+  color: grey;
+  text-decoration: underline;
+  text-underline-offset: 1rem;
+  text-decoration-color: rgb(181, 181, 181);
 }
 
 #socials-container {
